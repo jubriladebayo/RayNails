@@ -100,7 +100,7 @@ We offer beauty services, luxury manicure & pedicure treatments to people and we
 
             # documentation
             contact_form = """
-             <form action="https://formsubmit.co/YOUR@MAIL.COM" method="POST">
+             <form action="https://formsubmit.co/jubrilcisse07@gmail.COM" method="POST">
         <input type="hidden" name="_captcha" value="false">
         <input type="text" name="name" placeholder="Your name" required>
         <input type="email" name="email" placeholder="Your email" required>
@@ -114,5 +114,6 @@ We offer beauty services, luxury manicure & pedicure treatments to people and we
     with right_column:
         st.empty()
            
+            
             
             
